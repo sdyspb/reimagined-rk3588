@@ -59,7 +59,7 @@ config:
     theme: base
     themeVariables:
         treeView:
-            labelFontSize: '20px'
+            labelFontSize: '16px'
             labelColor: '#E0E0E0'
             lineColor: '#757575'
         background: '#1E1E1E'
