@@ -38,4 +38,5 @@
 
 На рисунке представлен базовый вид камеры. В зависимости от установленного модуля сенсора, объектива и способа крепления, внешний вид может быть изменён:
 
-<img width="768" height="705" alt="start88-smart-camera drawio" src="https://github.com/user-attachments/assets/47092e60-3846-4ba0-a511-28095feec091" />
+<img width="1254" height="621" alt="image" src="https://github.com/user-attachments/assets/8b1b9ada-0718-488e-a2df-d8313c615080" />
+
