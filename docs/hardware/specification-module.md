@@ -32,7 +32,7 @@
 
 ## Структурная схема
 
-<img src="start88_smart-camera_fbd.svg" alt="Блок-схема модульной камеры" width="1024"/>
+<img src="start88_smart-camera_fbd.drawio.svg" alt="Блок-схема модульной камеры" width="1024"/>
 
 ## Внешний вид
 
