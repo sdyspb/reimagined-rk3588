@@ -33,7 +33,7 @@
 
 ## Структурная схема
 
-<img width="1024" height="439" alt="start88_smart-camera_fbd drawio" src="https://github.com/user-attachments/assets/2baab8c5-11d7-4075-911a-b1f776a22b49" />
+<img src="start88_smart-camera_fbd.drawio" alt="Блок-схема модульной камеры" width="1024"/>
 
 ## Внешний вид
 
